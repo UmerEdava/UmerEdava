@@ -80,5 +80,5 @@
 </p>
 
 <p  align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA"/>       
+<img src="https://komarev.com/ghpvc/?username=UmerEdava&color=green" alt="HalemoGPA"/>       
 </p>
