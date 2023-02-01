@@ -20,7 +20,15 @@
   <br>
   📫 How to reach me 👇
 </p>
-<p align="center"> <a href="https://www.linkedin.com/in/abdel-haleem-osama-0870a81ba/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:haleemborham3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> <a href="http://wa.me//201010147580"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> <a href="https://www.facebook.com/halemogpa"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a> <a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> <a href="https://www.youtube.com/watch?v=p0uAJ6Eu4Rs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> <a href="https://t.me/HalemoGPA"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/umer-sanil-843b261b6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> 
+<a href="mailto:umeredava@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a> 
+<a href="http://wa.me//7356317610"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height=23></a> 
+<a href="https://www.facebook.com/umer.sanil"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=23></a> 
+<a href="https://github.com/HalemoGPA/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a>
+<!-- <a href="https://www.youtube.com/watch?v=p0uAJ6Eu4Rs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a>  -->
+<!-- <a href="https://t.me/HalemoGPA"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height=23></a> -->
+</p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
@@ -46,8 +54,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
-
-
 <p align="center">
 <a href="https://github.com/HalemoGPA/">
       <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
@@ -64,7 +70,7 @@
   
 <a href="https://github.com/HalemoGPA/Learn-CSS/">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HalemoGPA&repo=Learn-CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>    
+</a>
 
 </p>
 
