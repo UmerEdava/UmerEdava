@@ -40,6 +40,7 @@
   <code><img title="Typescript" height="25" src="images/typescript.svg"></code>
   <code><img title="NodeJS" height="25" src="images/node-js.svg"></code>
   <code><img title="ReactJS" height="25" src="images/react.svg"></code>
+  <code><img title="Mongodb" height="25" src="images/mongodb.svg"></code>
   <code><img title="C" height="25" src="images/c.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
